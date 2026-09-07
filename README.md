@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kushbharti/Python-DSA/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/kushbharti/Python-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/kushbharti/Python-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/kushbharti/Python-DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
