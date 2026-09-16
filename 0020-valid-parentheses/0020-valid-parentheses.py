@@ -20,7 +20,4 @@ class Solution:
                 last_item = stack.pop()
                 if char != brackets[last_item]:
                     return False
-
-                    
-        
         return True if len(stack) == 0 else False
