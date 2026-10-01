@@ -7,7 +7,7 @@ class Solution:
             return False
         
         for bracket in s:
-            if bracket in "([{":
+            if bracket not in matching_open:
                 stack.append(bracket)
 
             else:
@@ -15,4 +15,4 @@ class Solution:
                     return False
                 stack.pop()
         
-        return len(stack) == 0
+        return True if not stack else False
