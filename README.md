@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushbharti/Python-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kushbharti/Python-DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/kushbharti/Python-DSA/tree/master/0287-find-the-duplicate-number) |
+| [1929-concatenation-of-array](https://github.com/kushbharti/Python-DSA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/kushbharti/Python-DSA/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/kushbharti/Python-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
