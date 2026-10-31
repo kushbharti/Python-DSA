@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kushbharti/Python-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushbharti/Python-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kushbharti/Python-DSA/tree/master/0287-find-the-duplicate-number) |
+| [1672-richest-customer-wealth](https://github.com/kushbharti/Python-DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kushbharti/Python-DSA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kushbharti/Python-DSA/tree/master/0219-contains-duplicate-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/kushbharti/Python-DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
